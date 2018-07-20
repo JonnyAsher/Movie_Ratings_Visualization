@@ -37,10 +37,10 @@
 ![Drag Racing](https://github.com/JonnyAsher/Movie_Ratings_Visualization/blob/master/1.5_MovieRatings.png)
 
 # Movie Ratings Visualization 9 -- 
-## 
+## Among Critics, Ratings are Much More Evenly Distributed- They Have a set Rubric of what Qualifies as a Good Movie and are Consisten
 ![Drag Racing](https://github.com/JonnyAsher/Movie_Ratings_Visualization/blob/master/1.6_MovieRatings.png)
 
 
 # Movie Ratings Visualization 10 -- 
-## 
+## Audience Ratings are More Normally Distributed - Not as Consistent Due to Personal Methods of Judging Movies
 ![Drag Racing](https://github.com/JonnyAsher/Movie_Ratings_Visualization/blob/master/1.7_MovieRatings.png)
