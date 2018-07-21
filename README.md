@@ -1,11 +1,9 @@
 # Movie Ratings Visualization 1 -- Point to Point Plot with Smoother
-## Yearly Breakdown on How Budget and Genre Effect Audience and Critic Rating.
-### Overall Action, Comedies and, Dramas Are Safe Bets to Get Good Ratings.
+## Audience and critic ratings in relation to movie genre and budget.
 ![Drag Racing](https://github.com/JonnyAsher/Movie_Ratings_Visualization/blob/master/1.1.1_MovieRatings.png)
 
 
-# Movie Ratings Visualization 2 -- Point to Point Plot with Line Graph
-## Visualization of Entire Data Set. 
+# Movie Ratings Visualization 2 -- Point to Point Plot with Line Graph of entire data set. 
 ![Drag Racing](https://github.com/JonnyAsher/Movie_Ratings_Visualization/blob/master/1.2_MovieRatings.png)
 
 
