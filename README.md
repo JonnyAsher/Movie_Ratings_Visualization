@@ -31,20 +31,21 @@
 ![Drag Racing](https://github.com/JonnyAsher/Movie_Ratings_Visualization/blob/master/1.10_MovieRatings.png)
 
 # Movie Ratings Visualization 7 -- 
-## Among Critics, Ratings are Much More Evenly Distributed- They Have a set Rubric of what Qualifies as a Good Movie and are Consisten
-![Drag Racing](https://github.com/JonnyAsher/Movie_Ratings_Visualization/blob/master/1.6_MovieRatings.png)
+## Are Critics Actually More Consistent? This Visualizagtion Shows They Actually Are, But Why? 
+### Possibly Because They Have a Set Rubric of what Qualifies as a Good Movie. 
+![Drag Racing](https://github.com/JonnyAsher/Movie_Ratings_Visualization/blob/master/1.7_MovieRatings_Critics.png)
 
 
 # Movie Ratings Visualization 8 -- 
-## Audience Ratings are More Normally Distributed - Not as Consistent Due to Personal Methods of Judging Movies
-![Drag Racing](https://github.com/JonnyAsher/Movie_Ratings_Visualization/blob/master/1.7_MovieRatings.png)
-
+## On The Other Hand Audience Ratings are More Normally Distributed. Each Person Has Their Own Method of Judging and Understanding Movies. The Bell Curve Correlates to More Human Behaviopr
+### Cool Side Note: Charting Human Behavior is FASCINATING
+![Drag Racing](https://github.com/JonnyAsher/Movie_Ratings_Visualization/blob/master/1.6_MovieRatings_Audience.png)
 
 # Movie Ratings Visualization 9 -- 
-## For Audience Ratings on Average, Romance, Thriller, Dramas are the Best Bet 
+## What Genre Should Be Made If You Want a High Audience Rating? Generally Romance, Thriller, Dramas are Your Best Bet for Audience Ratings.  
 ![Drag Racing](https://github.com/JonnyAsher/Movie_Ratings_Visualization/blob/master/1.4_MovieRatings.png)
 
 # Movie Ratings Visualization 10 -- 
-## Critic Ratings Are Much More Evenly Distributed- Critics Favor the Average Thriller
+## On The Other Side Critic Ratings Are Much More Evenly Distributed. Critics Favor Thrillers. 
 ![Drag Racing](https://github.com/JonnyAsher/Movie_Ratings_Visualization/blob/master/1.5_MovieRatings.png)
 
